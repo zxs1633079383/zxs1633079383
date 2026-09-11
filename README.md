@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="zxs1633079383 — Engineering the next loop. 从一个想法，到可以运行、验证与迭代的系统。" />
+  <img src="./assets/hero.svg" width="100%" alt="zxs1633079383 — Engineering the next loop. 从一个想法，到可以运行、验证与迭代的系统。" />
 </p>
 
 <p align="center">
@@ -28,13 +28,15 @@
 四个项目，四个切入点：自动化闭环、Agent 编排、交互协议与知识工具。
 
 <p align="center">
-  <a href="https://github.com/zxs1633079383/loopforge-tauri-im"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/loopforge-dark.svg" /><img src="./assets/loopforge-light.svg" width="49%" alt="LoopForge — 执行、验证、修复，让迭代形成闭环。 Tauri / Rust / Go" /></picture></a>
-  <a href="https://github.com/zxs1633079383/opc-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/opc-dark.svg" /><img src="./assets/opc-light.svg" width="49%" alt="OPC Platform — 用声明式 YAML 描述与编排 Agent。 Go / AI Agents / YAML" /></picture></a>
+  <a href="https://github.com/zxs1633079383/loopforge-tauri-im"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/loopforge-dark.svg" /><img src="./assets/loopforge-light.svg" width="48%" alt="LoopForge — 执行、验证、修复，让迭代形成闭环。 Tauri / Rust / Go" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/zxs1633079383/opc-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/opc-dark.svg" /><img src="./assets/opc-light.svg" width="48%" alt="OPC Platform — 用声明式 YAML 描述与编排 Agent。 Go / AI Agents / YAML" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zxs1633079383/Universal_Interaction"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/uip-dark.svg" /><img src="./assets/uip-light.svg" width="49%" alt="Universal Interaction — 让即时通信系统连接智能助手。 Go / IM / Protocol" /></picture></a>
-  <a href="https://github.com/zxs1633079383/pwiki"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pwiki-dark.svg" /><img src="./assets/pwiki-light.svg" width="49%" alt="pwiki — 将仓库 Wiki 接入个人知识工作流。 Python / LLM Wiki / Obsidian" /></picture></a>
+  <a href="https://github.com/zxs1633079383/Universal_Interaction"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/uip-dark.svg" /><img src="./assets/uip-light.svg" width="48%" alt="Universal Interaction — 让即时通信系统连接智能助手。 Go / IM / Protocol" /></picture></a>
+  &nbsp;
+  <a href="https://github.com/zxs1633079383/pwiki"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pwiki-dark.svg" /><img src="./assets/pwiki-light.svg" width="48%" alt="pwiki — 将仓库 Wiki 接入个人知识工作流。 Python / LLM Wiki / Obsidian" /></picture></a>
 </p>
 
 <details>
