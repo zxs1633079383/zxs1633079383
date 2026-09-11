@@ -3,15 +3,14 @@
 </p>
 
 <p align="center">
-  <a href="#about">ABOUT / 关于</a>　·　
-  <a href="#work">SELECTED WORK / 作品</a>　·　
-  <a href="#stack">TOOLBOX / 技术</a>　·　
+  <a href="#01--a-little-about-me">ABOUT / 关于</a>　·　
+  <a href="#02--selected-work">SELECTED WORK / 作品</a>　·　
+  <a href="#03--my-toolbox">TOOLBOX / 技术</a>　·　
   <a href="https://github.com/zxs1633079383?tab=repositories">ALL REPOS ↗</a>
 </p>
 
 <br />
 
-<a name="about"></a>
 ### 01 / A little about me
 
 **你好，我是 zxs1633079383。喜欢把不同技术连接起来，做出能运行的东西。**
@@ -22,7 +21,6 @@
 
 <br />
 
-<a name="work"></a>
 ### 02 / Selected work
 
 四个项目，四个切入点：自动化闭环、Agent 编排、交互协议与知识工具。
@@ -51,7 +49,6 @@
 
 <br />
 
-<a name="stack"></a>
 ### 03 / My toolbox
 
 <p align="center">
