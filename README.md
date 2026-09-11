@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#01--a-little-about-me">ABOUT / 关于</a>　·　
-  <a href="#02--selected-work">SELECTED WORK / 作品</a>　·　
+  <a href="#02--open-source-explorations">OPEN SOURCE / 开源</a>　·　
   <a href="#03--my-toolbox">TOOLBOX / 技术</a>　·　
   <a href="https://github.com/zxs1633079383?tab=repositories">ALL REPOS ↗</a>
 </p>
@@ -21,29 +21,26 @@
 
 <br />
 
-### 02 / Selected work
+### 02 / Open-source explorations
 
-四个项目，四个切入点：自动化闭环、Agent 编排、交互协议与知识工具。
+关注的开源项目：Agent 框架、分布式数据与 Rust 跨端开发。以下链接指向我的 Fork，卡片标注原始项目。
 
 <p align="center">
-  <a href="https://github.com/zxs1633079383/loopforge-tauri-im"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/loopforge-dark.svg" /><img src="./assets/loopforge-light.svg" width="48%" alt="LoopForge — 执行、验证、修复，让迭代形成闭环。 Tauri / Rust / Go" /></picture></a>
+  <a href="https://github.com/zxs1633079383/flink-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/flink-agents-dark.svg" /><img src="./assets/flink-agents-light.svg" width="48%" alt="Flink Agents — 基于 Apache Flink 的 Agentic AI 框架。 Fork of apache/flink-agents" /></picture></a>
   &nbsp;
-  <a href="https://github.com/zxs1633079383/opc-platform"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/opc-dark.svg" /><img src="./assets/opc-light.svg" width="48%" alt="OPC Platform — 用声明式 YAML 描述与编排 Agent。 Go / AI Agents / YAML" /></picture></a>
+  <a href="https://github.com/zxs1633079383/shardingsphere"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/shardingsphere-dark.svg" /><img src="./assets/shardingsphere-light.svg" width="48%" alt="ShardingSphere — 分库分表、分布式 SQL 与数据治理。 Fork of apache/shardingsphere" /></picture></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/zxs1633079383/Universal_Interaction"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/uip-dark.svg" /><img src="./assets/uip-light.svg" width="48%" alt="Universal Interaction — 让即时通信系统连接智能助手。 Go / IM / Protocol" /></picture></a>
-  &nbsp;
-  <a href="https://github.com/zxs1633079383/pwiki"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pwiki-dark.svg" /><img src="./assets/pwiki-light.svg" width="48%" alt="pwiki — 将仓库 Wiki 接入个人知识工作流。 Python / LLM Wiki / Obsidian" /></picture></a>
+  <a href="https://github.com/zxs1633079383/dioxus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dioxus-dark.svg" /><img src="./assets/dioxus-light.svg" width="48%" alt="Dioxus — 用 Rust 构建 Web、桌面与移动应用。 Fork of DioxusLabs/dioxus" /></picture></a>
 </p>
 
 <details>
-<summary>项目说明 / Read more</summary>
+<summary>项目说明与上游 / About these projects</summary>
 
-- **[LoopForge](https://github.com/zxs1633079383/loopforge-tauri-im)** — 连接 Tauri 桌面层、Rust Core 与 Go 控制平面，探索执行、验证、修复与收敛的自动化循环。
-- **[OPC Platform](https://github.com/zxs1633079383/opc-platform)** — 通过声明式 YAML 描述和管理 AI Agent 集群。
-- **[Universal Interaction](https://github.com/zxs1633079383/Universal_Interaction)** — 与具体 IM 系统解耦的统一交互协议，用于消息系统与 Clawdbot 对接。
-- **[pwiki](https://github.com/zxs1633079383/pwiki)** — 将仓库 Wiki 同步到 Obsidian，探索 LLM Wiki 查询与图谱工作流。
+- **[Flink Agents](https://github.com/zxs1633079383/flink-agents)** — 基于 Apache Flink 的 Agentic AI 框架。 上游：[apache/flink-agents](https://github.com/apache/flink-agents)。
+- **[ShardingSphere](https://github.com/zxs1633079383/shardingsphere)** — 分库分表、分布式 SQL 与数据治理。 上游：[apache/shardingsphere](https://github.com/apache/shardingsphere)。
+- **[Dioxus](https://github.com/zxs1633079383/dioxus)** — 用 Rust 构建 Web、桌面与移动应用。 上游：[DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)。
 
 </details>
 
