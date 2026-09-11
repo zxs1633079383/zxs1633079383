@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="280" viewBox="0 0 580 280" role="img"><title>Helix — 运行时无关的确定性 Rust 业务内核</title><g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,PingFang SC,Microsoft YaHei,sans-serif"><rect x="1" y="1" width="578" height="278" rx="18" fill="#f8f9fc" stroke="#e0e4ed"/>
+<path d="M25 1H555" stroke="#edb48d" stroke-width="2"/>
+<text x="28" y="40" fill="#596478" font-size="11" letter-spacing="2">03 / RUST · RUNTIME-AGNOSTIC</text>
+<circle cx="516" cy="104" r="42" fill="#edb48d" opacity=".09"/>
+<g fill="none" stroke="#edb48d" stroke-width="2"><path d="M490 83l25 7 26-7v40l-26 7-25-7ZM515 90v40M497 95l11 3M497 104l11 3M522 98l11-3M522 107l11-3"/></g><text x="28" y="109" font-size="34" font-weight="700" letter-spacing="-1" fill="#1a2030">Helix</text>
+<text x="28" y="151" font-size="17" fill="#596478">运行时无关的确定性业务内核。</text>
+<text x="28" y="193" font-size="13" fill="#596478">Rust / sans-IO / Native / WASM / FFI</text>
+<path d="M28 218H552" stroke="#e0e4ed"/>
+<text x="28" y="250" fill="#596478" font-size="11" letter-spacing="2">CRATE · cses-helix-core</text>
+<path d="M528 249l15-15m-15 0h15v15" stroke="#596478" stroke-width="1.5" fill="none"/></g></svg>

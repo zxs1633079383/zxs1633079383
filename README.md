@@ -23,7 +23,7 @@
 
 ### 02 / Open-source explorations
 
-关注的开源项目：Agent 框架、分布式数据与 Rust 跨端开发。以下链接指向我的 Fork，卡片标注原始项目。
+项目与开源探索：Flink Agents、ShardingSphere、Helix 与 Dioxus。Helix 链接至公开 Rust 文档，其余链接指向我的 Fork，并标注上游。
 
 <p align="center">
   <a href="https://github.com/zxs1633079383/flink-agents"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/flink-agents-dark.svg" /><img src="./assets/flink-agents-light.svg" width="48%" alt="Flink Agents — 基于 Apache Flink 的 Agentic AI 框架。 Fork of apache/flink-agents" /></picture></a>
@@ -32,6 +32,8 @@
 </p>
 
 <p align="center">
+  <a href="https://docs.rs/cses-helix-core/latest/helix_core/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/helix-dark.svg" /><img src="./assets/helix-light.svg" width="48%" alt="Helix — 运行时无关的确定性 Rust 业务内核，sans-IO / Native / WASM / FFI" /></picture></a>
+  &nbsp;
   <a href="https://github.com/zxs1633079383/dioxus"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/dioxus-dark.svg" /><img src="./assets/dioxus-light.svg" width="48%" alt="Dioxus — 用 Rust 构建 Web、桌面与移动应用。 Fork of DioxusLabs/dioxus" /></picture></a>
 </p>
 
@@ -40,6 +42,7 @@
 
 - **[Flink Agents](https://github.com/zxs1633079383/flink-agents)** — 基于 Apache Flink 的 Agentic AI 框架。 上游：[apache/flink-agents](https://github.com/apache/flink-agents)。
 - **[ShardingSphere](https://github.com/zxs1633079383/shardingsphere)** — 分库分表、分布式 SQL 与数据治理。 上游：[apache/shardingsphere](https://github.com/apache/shardingsphere)。
+- **[Helix](https://docs.rs/cses-helix-core/latest/helix_core/)** — 运行时无关的确定性 Rust 业务内核，采用 sans-IO 架构，面向 Native、WASM 与 FFI。公开包：`cses-helix-core`。
 - **[Dioxus](https://github.com/zxs1633079383/dioxus)** — 用 Rust 构建 Web、桌面与移动应用。 上游：[DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus)。
 
 </details>
